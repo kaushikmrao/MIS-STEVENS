@@ -1,0 +1,513 @@
+car_type_id,car_make,car_model
+1,Acura,CL
+2,Acura,Integra
+3,Acura,MDX
+4,Acura,NSX
+5,Acura,RL
+6,Acura,TL
+7,Alfa Romeo,164
+8,Aston Martin,DB9
+9,Aston Martin,DBS
+10,Aston Martin,Rapide
+11,Aston Martin,Vantage
+12,Aston Martin,Virage
+13,Audi,80
+14,Audi,90
+15,Audi,100
+16,Audi,80/90
+17,Audi,A5
+18,Audi,A6
+19,Audi,A8
+20,Audi,Allroad
+21,Audi,Coupe GT
+22,Audi,Q5
+23,Audi,riolet
+24,Audi,RS4
+25,Audi,S4
+26,Audi,S5
+27,Audi,S6
+28,Audi,S8
+29,Audi,TT
+30,Audi,V8
+31,Bentley,Continental
+32,Bentley,Continental Flying Spur
+33,Bentley,Continental GTC
+34,BMW,525
+35,BMW,530
+36,BMW,760
+37,BMW,1 Series
+38,BMW,3 Series
+39,BMW,5 Series
+40,BMW,6 Series
+41,BMW,7 Series
+42,BMW,M
+43,BMW,M3
+44,BMW,M6
+45,BMW,X3
+46,BMW,X6 M
+47,BMW,Z3
+48,BMW,Z4
+49,Buick,Century
+50,Buick,Coachbuilder
+51,Buick,Electra
+52,Buick,Estate
+53,Buick,LaCrosse
+54,Buick,Park Avenue
+55,Buick,Rainier
+56,Buick,Reatta
+57,Buick,Regal
+58,Buick,Rendezvous
+59,Buick,Riviera
+60,Buick,Roadmaster
+61,Buick,Skylark
+62,Buick,Somerset
+63,Buick,Terraza
+64,Cadillac,Catera
+65,Cadillac,CTS
+66,Cadillac,CTS-V
+67,Cadillac,DTS
+68,Cadillac,Escalade
+69,Cadillac,Escalade ESV
+70,Cadillac,Escalade EXT
+71,Cadillac,Fleetwood
+72,Cadillac,Seville
+73,Cadillac,SRX
+74,Cadillac,STS
+75,Cadillac,STS-V
+76,Cadillac,XLR
+77,Cadillac,XLR-V
+78,Chevrolet,2500
+79,Chevrolet,Astro
+80,Chevrolet,Avalanche
+81,Chevrolet,Beretta
+82,Chevrolet,Camaro
+83,Chevrolet,Caprice
+84,Chevrolet,Caprice Classic
+85,Chevrolet,Cavalier
+86,Chevrolet,Cobalt SS
+87,Chevrolet,Colorado
+88,Chevrolet,Corsica
+89,Chevrolet,Corvette
+90,Chevrolet,Cruze
+91,Chevrolet,Express
+92,Chevrolet,Express 1500
+93,Chevrolet,Express 2500
+94,Chevrolet,Express 3500
+95,Chevrolet,G-Series 1500
+96,Chevrolet,G-Series G20
+97,Chevrolet,Impala
+98,Chevrolet,Impala SS
+99,Chevrolet,Lumina
+100,Chevrolet,Malibu
+101,Chevrolet,Monte Carlo
+102,Chevrolet,S10
+103,Chevrolet,Silverado
+104,Chevrolet,Silverado 1500
+105,Chevrolet,Silverado 3500
+106,Chevrolet,Sportvan G20
+107,Chevrolet,Suburban
+108,Chevrolet,Suburban 1500
+109,Chevrolet,Suburban 2500
+110,Chevrolet,Tracker
+111,Chevrolet,Uplander
+112,Chevrolet,Venture
+113,Chrysler,Cirrus
+114,Chrysler,Concorde
+115,Chrysler,LHS
+116,Chrysler,Pacifica
+117,Chrysler,Prowler
+118,Chrysler,PT Cruiser
+119,Chrysler,Town & Country
+120,Daewoo,Lanos
+121,Daewoo,Leganza
+122,Dodge,Aries
+123,Dodge,Avenger
+124,Dodge,Caliber
+125,Dodge,Caravan
+126,Dodge,Challenger
+127,Dodge,Dakota
+128,Dodge,Dakota Club
+129,Dodge,Durango
+130,Dodge,Grand Caravan
+131,Dodge,Intrepid
+132,Dodge,Neon
+133,Dodge,Ram
+134,Dodge,Ram 1500
+135,Dodge,Ram 1500 Club
+136,Dodge,Ram 2500
+137,Dodge,Ram 3500
+138,Dodge,Ram 50
+139,Dodge,Ram Van 1500
+140,Dodge,Ram Van 2500
+141,Dodge,Ram Van 3500
+142,Dodge,Ram Van B150
+143,Dodge,Ram Van B250
+144,Dodge,Spirit
+145,Dodge,Viper
+146,Eagle,Summit
+147,Eagle,Talon
+148,Ferrari,599 GTB Fiorano
+149,Ferrari,612 Scaglietti
+150,Ferrari,F430
+151,Ferrari,F430 Spider
+152,Ford,Aerostar
+153,Ford,Aspire
+154,Ford,Bronco
+155,Ford,Bronco II
+156,Ford,Club Wagon
+157,Ford,Country
+158,Ford,Crown Victoria
+159,Ford,E150
+160,Ford,E250
+161,Ford,E350
+162,Ford,Econoline E150
+163,Ford,Econoline E250
+164,Ford,Econoline E350
+165,Ford,Edge
+166,Ford,Escape
+167,Ford,Escort
+168,Ford,E-Series
+169,Ford,Excursion
+170,Ford,EXP
+171,Ford,Expedition
+172,Ford,Expedition EL
+173,Ford,Explorer
+174,Ford,Explorer Sport
+175,Ford,Explorer Sport Trac
+176,Ford,F150
+177,Ford,F250
+178,Ford,F350
+179,Ford,F450
+180,Ford,Fiesta
+181,Ford,Focus
+182,Ford,Freestar
+183,Ford,Freestyle
+184,Ford,F-Series
+185,Ford,Laser
+186,Ford,Mustang
+187,Ford,Probe
+188,Ford,Ranger
+189,Ford,Taurus
+190,Ford,Th!nk
+191,Ford,Thunderbird
+192,Ford,Transit Connect
+193,Geo,Prizm
+194,Geo,Tracker
+195,GMC,1500
+196,GMC,2500
+197,GMC,3500
+198,GMC,1500 Club Coupe
+199,GMC,2500 Club Coupe
+200,GMC,3500 Club Coupe
+201,GMC,Acadia
+202,GMC,Canyon
+203,GMC,Envoy
+204,GMC,Envoy XL
+205,GMC,Envoy XUV
+206,GMC,EV1
+207,GMC,Safari
+208,GMC,Savana 1500
+209,GMC,Savana 2500
+210,GMC,Savana 3500
+211,GMC,Sierra 1500
+212,GMC,Sierra 2500
+213,GMC,Sierra 3500
+214,GMC,Sonoma Club Coupe
+215,GMC,Suburban 1500
+216,GMC,Vandura 1500
+217,GMC,Vandura 3500
+218,GMC,Vandura G3500
+219,GMC,Yukon
+220,GMC,Yukon XL 2500
+221,Hillman,Minx Magnificent
+222,Holden,VS Commodore
+223,Honda,Accord
+224,Honda,Civic
+225,Honda,CR-V
+226,Honda,Element
+227,Honda,Fit
+228,Honda,Insight
+229,Honda,Odyssey
+230,Honda,Pilot
+231,Honda,Prelude
+232,Honda,S2000
+233,Hummer,H1
+234,Hyundai,Accent
+235,Hyundai,Elantra
+236,Hyundai,Entourage
+237,Hyundai,Santa Fe
+238,Hyundai,Sonata
+239,Hyundai,Tiburon
+240,Hyundai,Tucson
+241,Hyundai,Veracruz
+242,Infiniti,G
+243,Infiniti,G37
+244,Infiniti,J
+245,Infiniti,M
+246,Infiniti,Q
+247,Infiniti,QX
+248,Isuzu,i-Series
+249,Isuzu,Oasis
+250,Isuzu,Rodeo
+251,Isuzu,Space
+252,Isuzu,VehiCROSS
+253,Jaguar,S-Type
+254,Jaguar,XF
+255,Jaguar,XJ
+256,Jaguar,XJ Series
+257,Jaguar,XK Series
+258,Jaguar,X-Type
+259,Jeep,Cherokee
+260,Jeep,Commander
+261,Jeep,Compass
+262,Jeep,Grand Cherokee
+263,Jeep,Patriot
+264,Jeep,Wrangler
+265,Jensen,Interceptor
+266,Kia,Amanti
+267,Kia,Borrego
+268,Kia,Optima
+269,Kia,rio
+270,Kia,Sedona
+271,Kia,Sorento
+272,Kia,Spectra
+273,Kia,Sportage
+274,Lamborghini,Diablo
+275,Lamborghini,Gallardo
+276,Lamborghini,Murciélago
+277,Land Rover,Defender
+278,Land Rover,Freelander
+279,Land Rover,LR2
+280,Land Rover,Range Rover
+281,Lexus,ES
+282,Lexus,GS
+283,Lexus,GX
+284,Lexus,HS
+285,Lexus,IS
+286,Lexus,IS F
+287,Lexus,LS
+288,Lexus,LX
+289,Lexus,RX
+290,Lexus,RX Hybrid
+291,Lexus,SC
+292,Lincoln,Continental
+293,Lincoln,LS
+294,Lincoln,Mark VII
+295,Lincoln,Mark VIII
+296,Lincoln,Navigator
+297,Lincoln,Town Car
+298,Lotus,Elan
+299,Lotus,Elise
+300,Lotus,Esprit
+301,Maserati,Biturbo
+302,Maserati,GranTurismo
+303,Maserati,Quattroporte
+304,Maserati,Spyder
+305,Maybach,62
+306,Maybach,57S
+307,Maybach,Landaulet
+308,Mazda,626
+309,Mazda,929
+310,Mazda,B-Series
+311,Mazda,B-Series Plus
+312,Mazda,CX-9
+313,Mazda,Familia
+314,Mazda,Mazda2
+315,Mazda,Mazda6
+316,Mazda,Mazdaspeed 3
+317,Mazda,Miata MX-5
+318,Mazda,Millenia
+319,Mazda,MPV
+320,Mazda,MX-3
+321,Mazda,MX-5
+322,Mazda,MX-6
+323,Mazda,Protege
+324,Mazda,RX-7
+325,Mazda,RX-8
+326,Mazda,Tribute
+327,Mercedes-Benz,300CE
+328,Mercedes-Benz,300SE
+329,Mercedes-Benz,C-Class
+330,Mercedes-Benz,CL-Class
+331,Mercedes-Benz,CLK-Class
+332,Mercedes-Benz,CLS-Class
+333,Mercedes-Benz,E-Class
+334,Mercedes-Benz,G55 AMG
+335,Mercedes-Benz,G-Class
+336,Mercedes-Benz,GL-Class
+337,Mercedes-Benz,M-Class
+338,Mercedes-Benz,R-Class
+339,Mercedes-Benz,S-Class
+340,Mercedes-Benz,SL-Class
+341,Mercedes-Benz,SLK-Class
+342,Mercedes-Benz,SLR McLaren
+343,Mercedes-Benz,Sprinter
+344,Mercedes-Benz,Sprinter 2500
+345,Mercedes-Benz,Sprinter 3500
+346,Mercedes-Benz,W201
+347,Mercury,Cougar
+348,Mercury,Grand Marquis
+349,Mercury,Lynx
+350,Mercury,Marauder
+351,Mercury,Marquis
+352,Mercury,Monterey
+353,Mercury,Sable
+354,Mercury,Topaz
+355,Mercury,Tracer
+356,Mercury,Villager
+357,Merkur,XR4Ti
+358,Mitsubishi,Chariot
+359,Mitsubishi,Diamante
+360,Mitsubishi,Eclipse
+361,Mitsubishi,Expo
+362,Mitsubishi,Galant
+363,Mitsubishi,GTO
+364,Mitsubishi,L300
+365,Mitsubishi,Lancer Evolution
+366,Mitsubishi,Mighty Max Macro
+367,Mitsubishi,Mirage
+368,Mitsubishi,Montero Sport
+369,Mitsubishi,Outlander
+370,Mitsubishi,Outlander Sport
+371,Mitsubishi,Pajero
+372,Mitsubishi,RVR
+373,Mitsubishi,Space
+374,Mitsubishi,Starion
+375,Mitsubishi,Truck
+376,Nissan,300ZX
+377,Nissan,350Z
+378,Nissan,370Z
+379,Nissan,Altima
+380,Nissan,Armada
+381,Nissan,Frontier
+382,Nissan,Maxima
+383,Nissan,Murano
+384,Nissan,Pathfinder
+385,Nissan,Quest
+386,Nissan,Rogue
+387,Nissan,Versa
+388,Nissan,Xterra
+389,Oldsmobile,88
+390,Oldsmobile,Aurora
+391,Oldsmobile,Cutlass Supreme
+392,Oldsmobile,LSS
+393,Oldsmobile,Silhouette
+394,Plymouth,Acclaim
+395,Plymouth,Fury
+396,Plymouth,Grand Voyager
+397,Plymouth,Laser
+398,Plymouth,Neon
+399,Plymouth,Prowler
+400,Plymouth,Reliant
+401,Plymouth,Voyager
+402,Pontiac,1000
+403,Pontiac,6000
+404,Pontiac,Bonneville
+405,Pontiac,Firebird
+406,Pontiac,G5
+407,Pontiac,G6
+408,Pontiac,Grand Am
+409,Pontiac,Grand Prix
+410,Pontiac,GTO
+411,Pontiac,LeMans
+412,Pontiac,Montana
+413,Pontiac,Solstice
+414,Pontiac,Sunbird
+415,Pontiac,Sunfire
+416,Pontiac,Turbo Firefly
+417,Pontiac,Vibe
+418,Porsche,911
+419,Porsche,928
+420,Porsche,944
+421,Porsche,924 S
+422,Porsche,Boxster
+423,Porsche,Cayenne
+424,Ram,1500
+425,Ram,2500
+426,Ram,3500
+427,Rolls-Royce,Phantom
+428,Saab,900
+429,Saab,9000
+430,Saab,9-4X
+431,Saab,9-3
+432,Saab,9-5
+433,Saturn,Aura
+434,Saturn,Relay
+435,Saturn,S-Series
+436,Saturn,VUE
+437,Scion,tC
+438,Scion,xA
+439,Spyker,C8
+440,Subaru,Alcyone SVX
+441,Subaru,Forester
+442,Subaru,Impreza
+443,Subaru,Justy
+444,Subaru,Legacy
+445,Subaru,Loyale
+446,Subaru,Outback
+447,Subaru,SVX
+448,Suzuki,Daewoo Magnus
+449,Suzuki,Equator
+450,Suzuki,Esteem
+451,Suzuki,Forenza
+452,Suzuki,Grand Vitara
+453,Suzuki,Kizashi
+454,Suzuki,SJ
+455,Suzuki,Swift
+456,Suzuki,SX4
+457,Suzuki,Vitara
+458,Suzuki,X-90
+459,Suzuki,XL-7
+460,Toyota,4Runner
+461,Toyota,Avalon
+462,Toyota,Camry
+463,Toyota,Camry Hybrid
+464,Toyota,Celica
+465,Toyota,Corolla
+466,Toyota,Echo
+467,Toyota,FJ Cruiser
+468,Toyota,Highlander
+469,Toyota,Land Cruiser
+470,Toyota,Matrix
+471,Toyota,MR2
+472,Toyota,Previa
+473,Toyota,Prius
+474,Toyota,Prius Plug-in Hybrid
+475,Toyota,RAV4
+476,Toyota,Sequoia
+477,Toyota,Sienna
+478,Toyota,Supra
+479,Toyota,T100
+480,Toyota,T100 Xtra
+481,Toyota,Tacoma
+482,Toyota,Tacoma Xtra
+483,Toyota,Tundra
+484,Toyota,TundraMax
+485,Volkswagen,Beetle
+486,Volkswagen,Cabriolet
+487,Volkswagen,Corrado
+488,Volkswagen,Eos
+489,Volkswagen,Eurovan
+490,Volkswagen,Fox
+491,Volkswagen,Golf
+492,Volkswagen,GTI
+493,Volkswagen,Jetta
+494,Volkswagen,New Beetle
+495,Volkswagen,Passat
+496,Volkswagen,Quantum
+497,Volkswagen,R32
+498,Volkswagen,rio
+499,Volkswagen,Scirocco
+500,Volkswagen,Touareg
+501,Volkswagen,Touareg 2
+502,Volvo,240
+503,Volvo,740
+504,Volvo,960
+505,Volvo,C30
+506,Volvo,C70
+507,Volvo,S60
+508,Volvo,S70
+509,Volvo,S90
+510,Volvo,V50
+511,Volvo,V70
+512,Volvo,XC90
